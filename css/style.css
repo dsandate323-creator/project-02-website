@@ -1,16 +1,16 @@
 * {margin: 0; padding: 0; box-sizing: border-box;}
 body {background-color: #002c5c; /* Navy Blue background */color: yellow; font-family: Arial, sans-serif; font-size: 16px; padding: 30px; line-height: 1.6;}
-h1 {font-family: Helvetica, sans-serif; font-size: 46px; font-weight: bold; color: #FF00FF; margin-bottom: 20px;}
+h1 {font-family: Helvetica, sans-serif; font-size: 46px; font-weight: bold; color: yellow; margin-bottom: 20px;}
 h2 {font-family: Arial, sans-serif;font-size: 26px; font-weight: 600; color: yellow; margin-bottom: 15px;}
 nav ul {list-style: none; display: flex; gap: 25px; margin-bottom: 40px; padding-bottom: 15px; border-bottom: 1px solid aquamarine;}
-nav a {color: #FF00FF;text-decoration: none;font-weight: bold;font-size: 18px; transition: color 0.2s ease;}
+nav a {color: yellow;text-decoration: none;font-weight: bold;font-size: 18px; transition: color 0.2s ease;}
 nav a:hover {color: yellow;text-decoration: underline;}
 footer {margin-top: 50px;padding-top: 20px;border-top: 1px solid aquamarine;font-size: 14px;}
 .middle-container {display: flex;gap: 30px;margin-top: 30px; align-items: flex-start;}
-.left-bar, .right-bar {flex: 1; background-color: rgba(255, 0, 255, 0.05); border: 1px dashed #FF00FF;padding: 20px;border-radius: 4px;}
+.left-bar, .right-bar {flex: 1; background-color: rgba(255, 0, 255, 0.05); border: 1px dashed yellow: 20px;border-radius: 4px;}
 .main-content {flex: 2;background-color: rgba(0, 255, 255, 0.03);border: 1px solid #00FFFF;padding: 25px;border-radius: 4px;}
 .main-content div {border-radius: 4px;box-shadow: 0 0 15px aquamarine;}
-h1 {font-family: Helvetica, sans-serif;font-size: 46px;font-weight: bold;color: #FF00FF;text-align: center; margin-bottom: 20px;}
+h1 {font-family: Helvetica, sans-serif;font-size: 46px;font-weight: bold;color: yellow;text-align: center; margin-bottom: 20px;}
 nav ul {list-style: none;display: flex;justify-content: center;gap: 25px;margin-bottom: 40px;padding-bottom: 15px;border-bottom: 1px solid aquamarine;}
 .hero-section {display: flex;flex-direction: column;align-items: center;justify-content: center;text-align: center;width: 100%; margin: 0 auto;}
 .hero-section img {max-width: 40%;height: auto;}
