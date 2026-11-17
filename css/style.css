@@ -1,5 +1,5 @@
 * {margin: 0; padding: 0; box-sizing: border-box;}
-body {background-color: #002c5c; /* Navy Blue background */color: yellow; font-family: Arial, sans-serif; font-size: 1rem; padding: 30px; line-height: 1.6;}
+body {background-color: rgb(0, 44, 92); /* Navy Blue background */color: yellow; font-family: Arial, sans-serif; font-size: 1rem; padding: 30px; line-height: 1.6;}
 h1 {font-family: Helvetica, sans-serif; font-size: 2.875rem; font-weight: bold; color: yellow; margin-bottom: 20px;}
 h2 {font-family: Arial, sans-serif; font-size: 1.625rem; font-weight: 600; color: yellow; margin-bottom: 15px;}
 nav ul {list-style: none; display: flex; gap: 25px; margin-bottom: 40px; padding-bottom: 15px; border-bottom: 1px solid aquamarine;}
